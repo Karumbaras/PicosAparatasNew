@@ -25,6 +25,7 @@ public class Produktai {
 	}
 
 	public void pridekProduktus(Produktai produktai) {
+		
 		this.suris = +produktai.suris;
 		this.padas = +produktai.padas;
 		this.padazas = +produktai.padazas;
